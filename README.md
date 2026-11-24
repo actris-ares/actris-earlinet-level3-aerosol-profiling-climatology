@@ -75,6 +75,12 @@ All at Consiglio Nazionale delle Ricerche, Istituto di Metodologie Integrate per
 della Terra (CNR-IMIOT), C.da S. Loja - Zona Industriale, I-85050 Tito Scalo (Potenza), Italy,
 within the ACTRIS ARES Data Centre unit.
 
+## Citation
+
+If you use this code, please cite it as described in [`CITATION.cff`](CITATION.cff) (GitHub
+shows it under *Cite this repository*). If you use the climatology itself, cite the dataset:
+[doi:10.57837/actris-ares/5snr-xv73](https://doi.org/10.57837/actris-ares/5snr-xv73).
+
 ## License
 
 [GNU GPL v3.0](LICENSE).

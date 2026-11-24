@@ -1,0 +1,61 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below, and cite the dataset it produced."
+title: "ACTRIS/EARLINET Level 3 aerosol profiling climatology"
+type: software
+version: "1.0.0"
+date-released: "2026-11-24"
+license: GPL-3.0-or-later
+repository-code: "https://github.com/actris-ares/actris-earlinet-level3-aerosol-profiling-climatology"
+abstract: >-
+  R code that produces the ACTRIS/EARLINET Level 3 aerosol profiling climatology from Level 2
+  lidar data: monthly, seasonal and annual statistics of the aerosol optical profiles, of the
+  integrated quantities and of the aerosol layers for each station, written as NetCDF files
+  that follow the ACTRIS conventions. It produced the ACTRIS/EARLINET Level 3 2000-2021
+  climatological dataset.
+keywords:
+  - ACTRIS
+  - EARLINET
+  - aerosol
+  - lidar
+  - climatology
+  - Level 3
+  - NetCDF
+  - R
+authors:
+  - given-names: Lucia
+    family-names: Mona
+    orcid: "https://orcid.org/0000-0003-4157-0838"
+    affiliation: "Consiglio Nazionale delle Ricerche, Istituto di Metodologie Integrate per l'Osservazione della Terra (CNR-IMIOT)"
+  - given-names: Fabrizio
+    family-names: Marra
+    orcid: "https://orcid.org/0000-0003-1722-2200"
+    affiliation: "Consiglio Nazionale delle Ricerche, Istituto di Metodologie Integrate per l'Osservazione della Terra (CNR-IMIOT)"
+  - given-names: Ermann
+    family-names: Ripepi
+    orcid: "https://orcid.org/0000-0002-6304-4655"
+    affiliation: "Consiglio Nazionale delle Ricerche, Istituto di Metodologie Integrate per l'Osservazione della Terra (CNR-IMIOT)"
+references:
+  - type: data
+    title: "ACTRIS/EARLINET Level 3 2000-2021 climatological dataset"
+    doi: "10.57837/actris-ares/5snr-xv73"
+    year: 2026
+    publisher:
+      name: "ACTRIS ARES Data Centre Unit"
+    authors:
+      - family-names: Mona
+        given-names: Lucia
+      - family-names: Marra
+        given-names: Fabrizio
+      - family-names: D'Amico
+        given-names: Giuseppe
+      - family-names: Ciamprone
+        given-names: Sergio
+      - family-names: Ripepi
+        given-names: Ermann
+      - family-names: Amato
+        given-names: Francesco
+      - family-names: Dema
+        given-names: Claudio
+      - family-names: Gumà-Claramunt
+        given-names: Pilar
+      - name: "ACTRIS ARES Data Centre Unit"
